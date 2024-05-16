@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import Card from "../components/Card";
 import { PuffLoader } from "react-spinners";
 import Form from "../components/Form";
-
 interface PhoneType {
   id: string;
   name: string;
